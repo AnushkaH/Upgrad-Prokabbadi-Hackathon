@@ -1,0 +1,396 @@
+,avg_raid_point,avg_tackle_points,dod_raid_points,high_5s,matches_played,player_id,player_name,raid_points,successful_raids,successful_tackles,super_10s,super_raids,super_tackles,tackle_points,team_name,total_points
+0,10.69,0.07,136,,104,197,Pardeep Narwal,1101,836,6,57,50,1,7,Patna Pirates,1108
+1,7.86,0.49,164,,120,81,Rahul Chaudhari,943,776,54,40,24,5,59,Tamil Thalaivas,1002
+2,6.96,0.71,166,4,123,41,Deepak Niwas Hooda,856,698,79,31,20,8,87,Jaipur Pink Panthers,943
+3,6.87,0.18,163,,115,26,Ajay Thakur,790,640,21,29,23,,21,Tamil Thalaivas,811
+4,9.25,0.11,102,,79,143,Maninder Singh,731,586,8,33,21,1,9,Bengal Warriors,740
+5,7.55,0.44,106,1,89,326,Rohit Kumar,664,545,37,26,15,2,39,Bengaluru Bulls,703
+6,5.09,0.39,127,,117,94,Rishank Devadiga,595,467,44,10,25,2,46,U.P. Yoddha,641
+7,6.1,0.55,103,,92,58,Kashiling Adake,561,424,44,15,23,7,51,Bengaluru Bulls,612
+8,8.03,0.45,71,,75,318,Pawan Kumar Sehrawat,578,445,31,26,19,3,34,Bengaluru Bulls,612
+9,5.79,0.76,33,,91,29,Anup Kumar,527,421,61,13,17,8,69,Jaipur Pink Panthers,596
+10,2.38,3.14,19,23,108,69,Manjeet Chhillar,224,179,324,2,5,15,339,Tamil Thalaivas,563
+11,2.13,2.47,25,16,120,142,Sandeep Narwal,247,191,268,1,11,28,296,U Mumba,543
+12,4.47,0.22,100,,103,12,Jang Kun Lee,460,366,20,9,14,3,23,Patna Pirates,483
+13,6.57,0.32,73,,69,388,Monu Goyat,453,377,19,20,7,3,22,U.P. Yoddha,475
+14,6.87,0.46,88,,63,757,Sachin Tanwar,433,356,26,16,4,3,29,Gujarat Fortunegiants,462
+15,6.63,0.35,52,,66,320,Nitin Tomar,431,366,20,14,10,3,23,Puneri Paltan,454
+16,10.19,0.17,59,,42,2296,Naveen Kumar,428,357,6,27,5,1,7,Dabang Delhi K.C.,435
+17,5,0.42,61,,77,52,Jasvir Singh,380,295,25,7,7,7,32,Tamil Thalaivas,412
+18,4.04,0.15,99,,97,111,Sukesh Hegde,392,294,13,1,15,2,15,Bengal Warriors,407
+19,10.05,0.15,63,,39,2026,Siddharth Sirish Desai,392,312,6,19,16,,6,Telugu Titans,398
+20,3.26,1.23,57,3,92,86,Rajesh Narwal,284,224,105,4,12,8,113,Dabang Delhi K.C.,397
+21,7.57,0.18,77,,51,366,Vikash Kandola,386,302,9,15,12,,9,Haryana Steelers,395
+22,3.61,0.57,95,,95,251,Meraj Sheykh,339,249,48,6,17,6,54,Dabang Delhi K.C.,393
+23,4.07,0.1,68,,94,155,Prashanth Kumar Rai,370,286,6,11,8,3,9,Haryana Steelers,379
+24,5.11,0.28,93,,72,106,Shrikant Jadhav,358,276,17,10,8,3,20,U.P. Yoddha,378
+25,4.54,0.07,79,,81,219,K. Prapanjan,363,284,6,10,7,,6,Bengal Warriors,369
+26,0.54,2.94,,23,109,157,Ravinder Pahal,14,8,301,,,19,320,Dabang Delhi K.C.,334
+27,1.36,1.94,22,4,118,160,Ran Singh,99,72,217,,4,12,229,Tamil Thalaivas,328
+28,5.18,0.16,38,,61,36,Chandran Ranjit,316,255,8,6,9,2,10,Dabang Delhi K.C.,326
+29,3.89,0.16,71,,81,211,Deepak Narwal,311,244,12,9,4,1,13,Jaipur Pink Panthers,324
+30,3.99,0.18,78,,79,293,Nilesh Salunke,303,229,12,5,9,2,14,Jaipur Pink Panthers,317
+31,6.04,0.47,54,,47,124,Wazir Singh,278,221,18,9,7,4,22,Haryana Steelers,300
+32,0.57,2.22,6,12,116,42,Dharmaraj Cheralathan,43,29,232,,,25,257,Haryana Steelers,300
+33,0.14,3.01,,19,98,259,Fazel Atrachali,4,2,277,,,18,295,U Mumba,299
+34,4.08,0.43,30,,68,261,Rohit Baliyan,269,223,27,3,6,2,29,U Mumba,298
+35,0.28,2.54,,18,109,71,Mohit Chhillar,7,3,254,,,23,277,Tamil Thalaivas,284
+36,3.79,0.03,60,,74,156,Pawan Kumar Kadian,277,206,2,5,4,,2,Puneri Paltan,279
+37,0.17,2.89,,25,92,322,PO Surjeet Singh,9,7,250,,,16,266,Puneri Paltan,275
+38,2.92,0.11,126,,89,85,Rajesh Mondal,260,212,9,1,7,1,10,Puneri Paltan,270
+39,0.24,2.49,1,16,104,161,Girish Maruti Ernak,10,3,245,,1,14,259,Puneri Paltan,269
+40,3.38,1.35,17,1,55,88,Rakesh Kumar,186,164,68,3,1,6,74,Telugu Titans,260
+41,0.54,3.13,2,19,71,146,Surender Nada,21,15,206,,,16,222,Haryana Steelers,243
+42,0.37,2.66,1,11,86,212,Amit Hooda,10,4,211,,,18,229,Jaipur Pink Panthers,239
+43,2.88,0.31,53,1,74,105,Shabeer Bappu,213,169,16,5,5,7,23,Tamil Thalaivas,236
+44,4.55,1,34,,42,763,Manjeet,191,162,40,4,5,2,42,Puneri Paltan,233
+45,,2.03,,5,112,54,Jeeva Kumar,1,1,205,,,22,227,Bengal Warriors,228
+46,3.64,0.26,37,,58,686,Rohit Gulia,211,176,14,4,3,1,15,Gujarat Fortunegiants,226
+47,,3.14,,13,64,290,Sandeep Kumar Dhull,1,,183,,,18,201,Jaipur Pink Panthers,202
+48,0.04,3.36,,15,59,358,Vishal Bhardwaj,1,1,177,,,21,198,Telugu Titans,199
+49,0.22,3.18,,15,62,725,Nitesh Kumar,2,,182,,,15,197,U.P. Yoddha,199
+50,2.95,0.24,47,,62,163,Mahendra Ganesh Rajput,180,132,13,2,9,2,15,Gujarat Fortunegiants,195
+51,,1.55,,8,125,123,Vishal Mane,,,185,,,9,194,Dabang Delhi K.C.,194
+52,3.42,0.15,79,,53,174,Deepak Kumar Dahiya,181,142,7,2,8,1,8,Puneri Paltan,189
+53,2.66,0.37,39,,65,66,Mahesh Goud,165,133,21,,4,3,24,Bengal Warriors,189
+54,2.35,1.03,11,1,59,745,Vijay,127,99,57,1,3,4,61,Dabang Delhi K.C.,188
+55,,2.43,,11,76,357,Parvesh Bhainswal,,,175,,,10,185,Gujarat Fortunegiants,185
+56,3.67,0.17,19,,48,119,CPO Surjeet Singh,176,138,8,6,3,,8,Tamil Thalaivas,184
+57,3.79,0.02,79,,50,389,Ajay Kumar,182,137,1,4,4,,1,Gujarat Fortunegiants,183
+58,0.08,2.63,1,10,68,368,Sunil Kumar,3,3,167,,,12,179,Gujarat Fortunegiants,182
+59,1.13,1.86,7,6,66,252,Kuldeep Singh,59,39,103,,2,20,123,Patna Pirates,182
+60,4.55,0.16,36,,38,92,Ravi Dalal,173,136,6,3,6,,6,Dabang Delhi K.C.,179
+61,0,2.64,,12,67,579,Jaideep,,,167,,,10,177,Patna Pirates,177
+62,5.16,0.45,12,,31,118,Surjeet Narwal,160,133,12,7,4,2,14,Bengal Warriors,174
+63,0.8,2.13,1,2,80,194,Joginder Singh Narwal,4,3,160,,,10,170,Dabang Delhi K.C.,174
+64,4.46,0.22,33,,37,75,Nitin Madane,165,132,5,6,4,3,8,U Mumba,173
+65,5.16,0.22,50,,32,2028,Abhishek Singh,165,141,7,9,3,,7,U Mumba,172
+66,3.02,0.78,37,,45,772,More GB,136,108,32,2,1,3,35,Gujarat Fortunegiants,171
+67,0.4,2.62,,7,63,733,Surinder Singh,4,1,160,,1,5,165,U Mumba,169
+68,0.06,2.68,,12,62,769,Mahender Singh,1,1,153,,,13,166,Bengaluru Bulls,167
+69,2.98,1,35,1,45,791,Nitin Rawal,122,91,39,2,6,6,45,Jaipur Pink Panthers,167
+70,0.09,2.54,,7,63,489,Abozar Mohajermighani,2,,147,,,13,160,Telugu Titans,162
+71,4.11,0.46,28,,35,2357,Naveen,144,114,14,2,5,2,16,Haryana Steelers,160
+72,1.86,1.11,6,2,71,107,Shrikant Tewthia,78,66,70,1,2,9,79,Bengal Warriors,157
+73,0.71,1.34,10,4,83,202,Ashish Kumar,46,37,98,,,13,111,Bengaluru Bulls,157
+74,0,1.7,,8,92,240,Ravi Kumar,,,137,,,19,156,Haryana Steelers,156
+75,2.83,0.11,63,,56,264,Selvamani K,150,109,6,2,7,,6,Haryana Steelers,156
+76,0.47,1.96,2,7,69,73,Nilesh Shinde,18,11,121,,,14,135,Dabang Delhi K.C.,153
+77,3.2,0.17,41,,47,300,Abolfazl Maghsodloumahali,144,117,7,,4,1,8,Gujarat Fortunegiants,152
+78,2.96,0.19,41,,48,234,Surender Singh,136,97,9,2,4,,9,U.P. Yoddha,145
+79,1.6,1.29,22,1,52,795,Monu,75,62,57,,2,10,67,Patna Pirates,142
+80,2.6,0.08,43,,53,242,Tushar Patil,135,104,4,,5,,4,Patna Pirates,139
+81,4.18,0,22,,33,190,Sonu Narwal,138,116,,1,3,,,Puneri Paltan,138
+82,0.22,1.66,,7,82,96,Rohit Rana,2,1,131,,,5,136,U Mumba,138
+83,1.2,1.28,7,1,58,482,Farhad Rahimi Milaghardan,53,42,70,,,4,74,Telugu Titans,127
+84,2.29,1,13,1,38,141,Sunil Jaipal,87,63,29,,4,9,38,Bengaluru Bulls,125
+85,,1.59,,5,75,165,Sachin Shingade,,,109,,,10,119,Haryana Steelers,119
+86,0.71,1.51,3,3,69,249,Hadi Oshtorak,15,8,90,,,14,104,Patna Pirates,119
+87,0.5,2.1,2,5,52,51,Jasmer Singh Gulia,7,7,102,,,7,109,Bengaluru Bulls,116
+88,3.08,0.03,20,,38,376,Athul MS,114,88,1,,,,1,U Mumba,115
+89,6.88,0.19,24,,16,2661,Pankaj Mohite,110,84,3,3,4,,3,Puneri Paltan,113
+90,1.74,0.78,28,,46,567,Mohsen Maghsoudloujafari,75,55,32,1,2,4,36,U.P. Yoddha,111
+91,0.2,1.23,,3,87,191,C. Arun,4,2,92,,,15,107,Telugu Titans,111
+92,0.36,1.67,1,2,63,207,Sunil,4,2,98,,,7,105,Tamil Thalaivas,109
+93,1.35,1,18,2,47,764,Vinod Kumar,62,41,38,,2,9,47,Gujarat Fortunegiants,109
+94,6.69,0,11,,17,2508,V. Ajith Kumar,107,89,,4,1,,,Tamil Thalaivas,107
+95,,1.75,,6,59,162,D. Suresh Kumar,,,91,,,12,103,U Mumba,103
+96,1.95,0.4,30,,45,46,Gurvinder Singh,82,59,17,1,2,1,18,Gujarat Fortunegiants,100
+97,3.75,1.25,7,1,20,484,Mohammad Esmaeil Nabibakhsh,75,60,23,1,3,2,25,Bengal Warriors,100
+98,2.47,0.28,25,,39,324,Darshan Kadian,89,66,8,1,2,3,11,Puneri Paltan,100
+99,0,1.66,,4,59,179,Vikas Kale,,,90,,,8,98,Haryana Steelers,98
+100,2.45,0.08,39,,38,217,Rohit Kumar Choudary,93,64,3,1,6,,3,U.P. Yoddha,96
+101,4.84,0.21,14,,19,2488,Vinay,92,66,4,2,6,,4,Haryana Steelers,96
+102,0.17,1.96,1,4,48,796,Rinku Narwal,2,2,87,,,7,94,Bengal Warriors,96
+103,,1.56,,2,61,164,Bajirao Hodage,,,90,,,5,95,Jaipur Pink Panthers,95
+104,3,0.13,29,,31,2475,Ajinkya Ashok Pawar,90,73,3,,1,1,4,Jaipur Pink Panthers,94
+105,,2.23,,5,39,2462,Sunil,,,86,,,1,87,Haryana Steelers,87
+106,2.04,0.88,14,,34,67,Mahipal Narwal,57,40,28,1,3,2,30,Gujarat Fortunegiants,87
+107,,1.41,,4,61,109,Somvir Shekhar,1,1,82,,,4,86,Jaipur Pink Panthers,87
+108,0.25,2.26,,7,38,621,Baldev Singh,1,,78,,,8,86,Bengal Warriors,87
+109,0.16,1.5,1,,54,311,Anil Kumar,3,2,76,,,5,81,Dabang Delhi K.C.,84
+110,0.93,1.13,,2,52,70,Manoj Kumar,25,16,48,,2,11,59,Gujarat Fortunegiants,84
+111,1.54,0.26,34,1,47,34,Bhupender Singh,71,48,11,,4,1,12,Bengal Warriors,83
+112,4.21,,11,,19,2024,Arjun Deshwal,80,60,2,2,2,,2,U Mumba,82
+113,,2.13,,5,38,794,Amit Sheoran,,,76,,,5,81,Bengaluru Bulls,81
+114,0.84,1.15,4,3,46,218,Sachin Kumar,26,21,48,,,5,53,U.P. Yoddha,79
+115,1.13,0.76,9,,46,121,Vikas Jaglan,43,28,35,,2,,35,Patna Pirates,78
+116,0.09,1.17,,5,60,347,Sagar B Krishna,1,1,63,,,7,70,Puneri Paltan,71
+117,2.15,0,17,,33,522,Dong Geon Lee,71,54,,1,1,,,U Mumba,71
+118,1.38,3.69,,6,16,248,Sandeep Kandola,11,7,55,,,4,59,Telugu Titans,70
+119,2.79,0.84,15,2,19,55,Jitesh Joshi,53,43,14,,,2,16,Puneri Paltan,69
+120,1.11,0.59,7,,41,268,Vineet Sharma,41,34,22,,,2,24,Tamil Thalaivas,65
+121,0.53,1.22,1,2,46,390,Jawahar Dagar,9,4,50,,,6,56,Patna Pirates,65
+122,,1.78,,3,36,732,Kuldeep Singh,1,,59,,,5,64,Haryana Steelers,65
+123,,1.78,,3,36,637,Neeraj Kumar,,,59,,,5,64,Patna Pirates,64
+124,3.88,0.12,14,,17,79,Pravin Niwale,62,43,2,1,5,,2,Dabang Delhi K.C.,64
+125,0.5,1.38,2,5,42,613,Sunil Siddhgavali,5,4,51,,,7,58,Jaipur Pink Panthers,63
+126,1.74,0.28,13,,32,363,Sumit Singh,54,39,7,,,2,9,Bengaluru Bulls,63
+127,0.5,3.39,,5,18,2330,Sumit,2,1,60,,,1,61,U.P. Yoddha,63
+128,3.6,0.53,24,,15,2286,Surender Gill,54,41,7,,1,1,8,U.P. Yoddha,62
+129,,1.63,,1,38,2023,Ruturaj Shivaji Koravi,,,59,,,3,62,Gujarat Fortunegiants,62
+130,0.33,2.36,2,2,25,735,Vishal,3,2,47,,,12,59,Jaipur Pink Panthers,62
+131,1.32,0.86,9,2,29,365,Akshay Jadhav,37,34,22,,1,3,25,Puneri Paltan,62
+132,2,0.31,26,,29,387,Vinod Kumar,52,43,9,,,,9,Bengaluru Bulls,61
+133,0.17,1.69,,2,35,28,Amit Singh Chhillar,1,1,55,,,4,59,Telugu Titans,60
+134,0.09,1.37,,2,41,147,Prashant Chavan,1,1,50,,,6,56,Dabang Delhi K.C.,57
+135,3.47,,9,,15,2485,Sonu Jaglan,52,42,3,1,3,1,4,Gujarat Fortunegiants,56
+136,2.12,0.08,11,,26,204,Rakesh Narwal,53,37,2,,4,,2,Bengal Warriors,55
+137,0.17,1.17,,,46,84,Rajaguru Subramanian,1,,51,,,3,54,U Mumba,55
+138,3.71,0.14,11,,14,2290,Rajnish,52,39,2,2,1,,2,Telugu Titans,54
+139,1,1.33,1,1,27,108,Shyam Kumar Sah,17,11,34,,1,2,36,Bengal Warriors,53
+140,2.88,0.38,17,,16,231,Amit Om Prakash Rathi,46,33,4,,1,2,6,Gujarat Fortunegiants,52
+141,0.78,1.14,4,,29,722,D. Pradap,18,11,31,,,2,33,Tamil Thalaivas,51
+142,0.56,2.09,1,2,22,98,Sachin Khambe,5,5,40,,,6,46,Puneri Paltan,51
+143,0.4,1.38,,1,34,152,D. Gopu,4,4,40,,,7,47,Tamil Thalaivas,51
+144,0.07,1,,2,49,158,Rakesh Singh Kumar,1,1,46,,,3,49,Haryana Steelers,50
+145,0.84,0.8,2,,35,150,Parmod Narwal,21,13,25,,1,3,28,Haryana Steelers,49
+146,2.21,0.37,16,,19,370,Ravindra Ramesh Kumawat,42,34,7,,2,,7,Bengal Warriors,49
+147,,1.78,,1,27,215,Vinod Kumar,,,48,,,,48,Puneri Paltan,48
+148,,2.61,,5,18,2670,Saurabh Nandal,1,1,42,,,5,47,Bengaluru Bulls,48
+149,,1.59,,1,29,724,Darshan J.,1,,45,,,1,46,Tamil Thalaivas,47
+150,1.84,0,12,,26,576,Anand Patil,46,33,,,3,,,Jaipur Pink Panthers,46
+151,2.14,0,6,,21,372,Harish Naik,45,34,,1,,,,Bengaluru Bulls,45
+152,1.84,0.48,15,,21,245,Yogesh Hooda,35,29,10,,,,10,Dabang Delhi K.C.,45
+153,0.44,0.52,,,58,167,Preetam Chhillar,15,9,30,,1,,30,Bengaluru Bulls,45
+154,4,0.08,3,,12,115,Suraj Desai,44,35,1,1,1,,1,Telugu Titans,45
+155,1.47,1.05,14,,19,2291,Amit Kumar,25,16,19,,1,1,20,Puneri Paltan,45
+156,0.56,1.73,1,1,22,773,Satpal,5,,32,,,6,38,Dabang Delhi K.C.,43
+157,1.2,1.09,5,,23,56,Kalimuthu Balamahendran,18,10,19,,2,6,25,Telugu Titans,43
+158,,1.34,,,32,676,Santhapanaselvam,,,40,,,3,43,Jaipur Pink Panthers,43
+159,,1.5,,2,28,778,Narender,,,37,,,5,42,U.P. Yoddha,42
+160,,1.32,,2,31,361,Sombir,,,35,,,6,41,Dabang Delhi K.C.,41
+161,0.73,0.61,6,,36,44,Gangadhari Mallesh,19,14,18,,,4,22,Jaipur Pink Panthers,41
+162,,2,,3,20,61,Kuldeep Singh,,,37,,,3,40,Bengaluru Bulls,40
+163,2,0.96,4,,26,232,Sachin Vittala,14,11,24,,1,1,25,Gujarat Fortunegiants,39
+164,0,1.65,,1,23,665,Pankaj,,,38,,,,38,Gujarat Fortunegiants,38
+165,1.94,0.41,7,,17,571,Mohammad Esmaeil Maghsoudlou Mahalli,31,25,5,,,2,7,Patna Pirates,38
+166,,0.93,,,40,728,Manish,,,30,,,7,37,Patna Pirates,37
+167,2.33,0.07,16,,15,718,R. Sriram,35,29,1,,,,1,Puneri Paltan,36
+168,0.53,0.87,5,,30,578,Mayur Shivtarkar,9,6,26,,,,26,Bengal Warriors,35
+169,1.55,0.19,15,,21,173,Suresu Kumar,31,26,4,,,,4,Dabang Delhi K.C.,35
+170,2.14,0.36,9,,14,762,Vikas Kumar,30,26,4,,,1,5,Telugu Titans,35
+171,,1.94,,3,18,2492,Jadhav Balasaheb Shahaji,,,28,,,7,35,Puneri Paltan,35
+172,1.09,1.24,5,1,17,2476,Amit Kumar,12,10,20,,1,1,21,Jaipur Pink Panthers,33
+173,0.5,1.16,,1,25,2463,Parveen,3,1,23,,,6,29,Haryana Steelers,32
+174,,1.78,,,18,2657,Ashu Singh,,,30,,,2,32,U.P. Yoddha,32
+175,,0.63,,,51,185,Vijin Thangadurai,,,27,,,5,32,Bengal Warriors,32
+176,,0.94,,1,34,536,Ziaur Rahman,,,30,,,2,32,Bengal Warriors,32
+177,1.88,,9,,17,648,Ajit Singh,32,24,,,1,,,Jaipur Pink Panthers,32
+178,2.44,1,2,,9,684,Rakesh Gowda,22,20,6,,,3,9,Telugu Titans,31
+179,0.36,1.29,,1,21,611,Sidharth,4,3,24,,,3,27,Dabang Delhi K.C.,31
+180,0.33,0.91,,,32,2020,Amit,2,1,26,,,3,29,U.P. Yoddha,31
+181,0.07,1.26,,,23,2479,Shubham Shinde,1,1,24,,,5,29,Puneri Paltan,30
+182,1.76,0,14,,17,172,Vinoth Kumar,30,25,,,,,,U Mumba,30
+183,1.85,0.38,4,,13,309,Manpreet Singh,24,20,5,,,,5,Patna Pirates,29
+184,2.08,0.15,6,,13,2316,Azad Singh,27,17,2,,1,,2,U.P. Yoddha,29
+185,,0.85,,,34,784,Viraj Vishnu Landge,,,29,,,,29,Bengal Warriors,29
+186,1.53,0.12,4,,17,837,Rakshith,26,23,2,,,,2,Telugu Titans,28
+187,1.46,0.69,8,,13,272,Umesh Mhatre,19,16,7,,,2,9,Puneri Paltan,28
+188,3.38,0.13,6,,8,168,Mangesh Bhagat,27,19,1,,,,1,Puneri Paltan,28
+189,,1.44,1,1,18,45,Gurpreet Singh,2,1,25,,,1,26,Puneri Paltan,28
+190,,1.59,,,17,20,Wasim Sajjad,,,24,,,3,27,Telugu Titans,27
+191,0.45,0.79,1,,28,301,Hadi Tajik,5,3,21,,,1,22,Puneri Paltan,27
+192,,1.37,,,19,734,Vikash,,,24,,,2,26,Haryana Steelers,26
+193,3,0.2,5,,10,171,Pradeep Kumar,24,19,1,1,2,1,2,U Mumba,26
+194,1.75,0.33,4,,12,195,Ashish Chhokar,21,13,4,,1,,4,Bengal Warriors,25
+195,0.33,1.26,1,,19,386,Anil Kumar,1,1,19,,,5,24,Dabang Delhi K.C.,25
+196,0.56,0.75,6,,20,275,Deepak Kumar Rathee,9,7,14,,1,1,15,Haryana Steelers,24
+197,,0.89,,,27,233,Manoj Dhull,,,23,,,1,24,Bengal Warriors,24
+198,2.2,0.2,6,,10,2298,Armaan,22,15,1,1,2,1,2,Telugu Titans,24
+199,1.55,0.5,4,,12,371,Amit Nagar,17,14,6,,,,6,Bengal Warriors,23
+200,,0.62,,1,37,519,Young Chang Ko,,,17,,,6,23,U Mumba,23
+201,,1,,,23,87,Raju Lal Choudhary,,,23,,,,23,Bengaluru Bulls,23
+202,0.2,0.68,,1,31,72,Navneet Gautam,1,,20,,,1,21,Jaipur Pink Panthers,22
+203,1,0.23,5,,35,14,Tae Deok Eom,14,10,7,,,1,8,Patna Pirates,22
+204,0.56,1.42,2,,12,38,Dadaso Balaso Awad,5,4,14,,,3,17,Dabang Delhi K.C.,22
+205,0.27,0.86,,,22,159,Samarjeet Singh,3,2,16,,,3,19,Jaipur Pink Panthers,22
+206,,1.31,,,16,314,Somvir,1,,20,,,1,21,Telugu Titans,22
+207,,0.73,,,30,288,Rahul Kumar,,,20,,,2,22,Bengal Warriors,22
+208,2,,9,,11,771,Suresh Kumar,22,12,,,,,,Puneri Paltan,22
+209,1.8,0.27,6,,11,2503,Banty,18,13,3,,,,3,Bengaluru Bulls,21
+210,,1,,,21,170,Swapnil Dilip Shinde,,,21,,,,21,Dabang Delhi K.C.,21
+211,,2.5,,2,8,166,Vijendar Singh,,,19,,,1,20,Telugu Titans,20
+212,2.71,,8,,7,2498,Sushil Gulia,19,12,1,,2,,1,Jaipur Pink Panthers,20
+213,,1.05,,1,19,2481,Ponparthiban Subramanian,,,19,,,1,20,Tamil Thalaivas,20
+214,,1.12,,1,17,2486,Harendra Kumar,,,18,,,1,19,U Mumba,19
+215,2.38,,4,,8,182,Dinesh Kumar,19,17,,,,,,Bengal Warriors,19
+216,,0.86,,1,22,76,Nitin More,,,19,,,,19,Bengal Warriors,19
+217,0.71,0.93,,,15,97,Rupesh Tomar,5,4,11,,,3,14,Dabang Delhi K.C.,19
+218,2.5,0.67,4,,6,277,Anil Shriram Nimbolkar,15,9,2,1,1,2,4,Dabang Delhi K.C.,19
+219,,1.36,,,14,299,Sandeep,,,16,,,3,19,Bengaluru Bulls,19
+220,0.14,1.06,,,16,274,Krushna Madane,1,1,17,,,,17,Telugu Titans,18
+221,0.75,1.36,,2,11,89,Ram Kumar Sah,3,3,14,,,1,15,Dabang Delhi K.C.,18
+222,2.67,,4,,6,2682,Amit Kumar,16,9,1,,,1,2,Puneri Paltan,18
+223,0.42,0.92,3,1,13,2502,Mohit Sehrawat,5,4,10,,,2,12,Bengaluru Bulls,17
+224,1.63,0.36,3,,11,2307,Kamal Singh,13,7,3,,,1,4,Telugu Titans,17
+225,,0.79,,,19,2470,Adarsh T,2,1,12,,,3,15,Bengal Warriors,17
+226,0.36,1.18,3,,11,214,Amit Kumar,4,3,11,,,2,13,Telugu Titans,17
+227,2.14,0.13,4,,8,243,Sanjay Kumar,15,9,1,,2,,1,Patna Pirates,16
+228,,1.45,,,11,391,S Mahalingam,,,14,,,2,16,Telugu Titans,16
+229,2.4,0.8,4,,5,667,Elangeshwaran R,12,7,2,,1,2,4,Telugu Titans,16
+230,1.56,,8,,9,696,M. Thivakaran,14,11,2,,,,2,Tamil Thalaivas,16
+231,1.57,0.44,2,,9,238,Isac Antony,11,10,4,,,,4,Telugu Titans,15
+232,2,,7,,7,313,Virender Wazir Singh,14,7,1,,1,,1,Bengal Warriors,15
+233,,1.15,,,13,360,Sanket Chavan,,,15,,,,15,Tamil Thalaivas,15
+234,0.88,,9,,18,200,Mohammad Maghshoudulu,14,9,1,,,,1,Patna Pirates,15
+235,,1.07,,,14,2672,Sumit Malik,,,14,,,1,15,Gujarat Fortunegiants,15
+236,,1,,,14,2512,Ajeet,,,13,,,1,14,Tamil Thalaivas,14
+237,1.11,0.33,1,,12,2274,C Manoj Kumar,10,7,4,,,,4,Telugu Titans,14
+238,1.75,,6,,8,2325,Anand,14,10,,,1,,,Tamil Thalaivas,14
+239,0.43,0.52,2,,21,768,Vijay Kumar,3,1,8,,,3,11,Bengaluru Bulls,14
+240,2,,,,6,2257,Victor Onyango Obiero,12,8,1,,,1,2,Tamil Thalaivas,14
+241,,1.17,,,12,169,Sagar Khatale,,,14,,,,14,Puneri Paltan,14
+242,2.33,,1,,6,16,Waleed Al Hasani,14,10,,,1,,,Puneri Paltan,14
+243,0.75,0.73,2,,15,13,Seong Ryeol Kim,3,2,10,,,1,11,Gujarat Fortunegiants,14
+244,1.2,,9,,10,180,Kedar Lal,12,7,1,,1,,1,Bengal Warriors,13
+245,,1.2,,1,10,181,Deepak Dhull,1,,11,,,1,12,Patna Pirates,13
+246,,1.18,,,11,2659,Sagar,,,12,,,1,13,Tamil Thalaivas,13
+247,,1.08,,,12,2667,Ankit,,,11,,,2,13,Gujarat Fortunegiants,13
+248,1.33,,1,,9,2660,Sushant Sail,12,8,,,,,,Puneri Paltan,12
+249,1,0.08,3,,12,2494,Sachin Narwal,11,7,1,,1,,1,Jaipur Pink Panthers,12
+250,,0.8,,,15,2496,Pavan T. R.,,,10,,,2,12,Jaipur Pink Panthers,12
+251,1.17,0.83,1,,6,786,Parvesh,7,5,4,,,1,5,Puneri Paltan,12
+252,0.71,1,,,7,2306,Lalit Chaudhary,5,2,5,,,2,7,Gujarat Fortunegiants,12
+253,,0.5,,,24,53,Jeeva Gopal,,,10,,,2,12,Haryana Steelers,12
+254,0.43,1,,,9,101,Santhosh B.S,3,1,8,,1,1,9,U.P. Yoddha,12
+255,,1.09,,,11,710,N. Renjith,,,10,,,2,12,U Mumba,12
+256,2.33,0.83,2,,6,731,Sandeep,7,4,4,,,1,5,Puneri Paltan,12
+257,,1.83,,,6,736,Yatharth Deshwal,,,10,,,1,11,Dabang Delhi K.C.,11
+258,1.29,0.22,2,,9,10,Simon Kibura,9,8,2,,,,2,Bengal Warriors,11
+259,,1.25,,,8,235,Vijender Singh,1,,9,,,1,10,Bengaluru Bulls,11
+260,,0.55,,,20,222,G.S. Manikandan,,,10,,,1,11,Dabang Delhi K.C.,11
+261,,1.57,,,7,2506,M. Abishek,,,11,,,,11,Tamil Thalaivas,11
+262,1,,2,,10,32,Balbir Singh,10,7,,,,,,Jaipur Pink Panthers,10
+263,,1.43,,,7,661,Tapas Pal,,,10,,,,10,Dabang Delhi K.C.,10
+264,,0.83,,,12,384,Ravinder Kumar,,,9,,,1,10,Patna Pirates,10
+265,0.75,,4,,12,605,Shubham Ashok Palkar,9,8,,,,,,Gujarat Fortunegiants,9
+266,1.6,,2,,5,644,Anand Surendra Tomar,8,7,1,,,,1,Haryana Steelers,9
+267,,1.29,,1,7,184,Deepak Kumar,,,7,,,2,9,Bengal Warriors,9
+268,1.5,,1,,6,2278,Bhanu Pratap Tomar,9,6,,,,,,U.P. Yoddha,9
+269,0,0.69,,,13,2471,Ankit,,,8,,,1,9,Bengaluru Bulls,9
+270,,1.33,,1,6,765,Anil Kumar,1,,8,,,,8,Tamil Thalaivas,9
+271,4,,,,2,2376,Emad Sedaghatnia,8,5,,,,,,Puneri Paltan,8
+272,1,,,,7,2322,Ankit Beniwal,7,5,1,,,,1,Telugu Titans,8
+273,,0.38,,,16,2353,Ajay,2,1,6,,,,6,Bengaluru Bulls,8
+274,,0.89,,,9,481,Saeid Ghaffari,,,8,,,,8,Dabang Delhi K.C.,8
+275,,1.14,,,7,694,Deepak Yadav,,,7,,,1,8,Puneri Paltan,8
+276,2,,1,,4,689,Mohan Raman G,8,4,,,,,,U Mumba,8
+277,4,,3,,2,244,Ravi V.,8,5,,,,,,Puneri Paltan,8
+278,,2,,,4,246,Harvinder Singh,,,7,,,1,8,Puneri Paltan,8
+279,0.67,0.22,1,,9,267,Amit Kumar Tomar,6,3,2,,,,2,Dabang Delhi K.C.,8
+280,1.6,,6,,5,285,Anil Kashinath Patil,8,6,,,,,,Jaipur Pink Panthers,8
+281,1,0.25,,,8,278,Gnanasekaran M,5,3,1,,,1,2,Dabang Delhi K.C.,7
+282,2,,2,,3,2321,Ankush,6,4,1,,,,1,U.P. Yoddha,7
+283,2.33,,2,,4,2266,Mahesh Maruti Magdum,7,5,,,,,,Bengaluru Bulls,7
+284,,0.67,,,9,2514,Chand Singh,1,1,5,,,1,6,Haryana Steelers,7
+285,,1.4,,,5,2662,Sanket Sawant,,,7,,,,7,Puneri Paltan,7
+286,1,,,,6,2315,Bhuvneshwar Gaur,6,3,,,,,,Haryana Steelers,6
+287,,0.71,,,7,2336,Anuj Kumar,1,1,4,,,1,5,Telugu Titans,6
+288,0.86,,,,7,266,David Shilisia J Mosambayi,6,2,,,,,,Jaipur Pink Panthers,6
+289,1,,1,,5,738,Rahul Choudhary,5,4,1,,,,1,Jaipur Pink Panthers,6
+290,1,,,,6,380,Vikash Kumar,6,4,,,,,,U Mumba,6
+291,0.25,0.83,,,6,178,Parveen M. Jangra,1,1,5,,,,5,Bengal Warriors,6
+292,1.67,,1,,3,21,Sinotharan Kanesharajah,5,2,1,,1,,1,Bengaluru Bulls,6
+293,0.5,0.25,,,8,4,Ehsan Zamani Fard,4,3,2,,,,2,Dabang Delhi K.C.,6
+294,,0.25,,,4,19,Wajid Ali,4,3,1,,,,1,Telugu Titans,5
+295,1,0,,,7,68,Mandeep Kumar,5,2,,,1,,,Patna Pirates,5
+296,0.75,0.5,,,4,80,Punit Kumar Teotia,3,2,2,,,,2,Dabang Delhi K.C.,5
+297,,0.56,,,9,151,Vikas Tomar,,,4,,,1,5,Puneri Paltan,5
+298,,0.63,,,8,208,Varinder Singh,,,5,,,,5,Patna Pirates,5
+299,,0.56,,,9,236,T. Prasad,,,5,,,,5,Telugu Titans,5
+300,0.6,,,,6,608,Prateek,3,1,2,,,,2,Haryana Steelers,5
+301,,1.25,,,4,741,Vikash,,,5,,,,5,Bengal Warriors,5
+302,,0.71,,,7,283,Jagdeesha K.K.,,,5,,,,5,Jaipur Pink Panthers,5
+303,0.71,,3,,7,260,Vijay Malik,5,4,,,,,,Patna Pirates,5
+304,1.67,,,,4,2314,Dharmender,5,2,,,1,,,Gujarat Fortunegiants,5
+305,,0.45,,,11,793,Amit Kharb,,,3,,,2,5,Gujarat Fortunegiants,5
+306,,1,,,5,751,Gurvinder Singh,,,5,,,,5,U.P. Yoddha,5
+307,1.25,,,,4,2666,Harmanjit Singh,5,5,,,,,,Gujarat Fortunegiants,5
+308,1.67,,,,3,2507,Amit Kumar,5,3,,,1,,,Patna Pirates,5
+309,0.71,,1,,7,2504,Ashish,5,3,,,,,,Patna Pirates,5
+310,,1.33,,,3,2665,Elavarasan A,,,3,,,1,4,Jaipur Pink Panthers,4
+311,,0.31,,,13,2328,Sudhanshu Tyagi,,,4,,,,4,Haryana Steelers,4
+312,0.75,,,,4,2474,Aman Kadian,3,2,1,,,,1,Dabang Delhi K.C.,4
+313,0.8,,1,,6,2478,Purna Singh,4,3,,,,,,Patna Pirates,4
+314,,,1,,2,730,Rohit,4,3,,,,,,Bengaluru Bulls,4
+315,,1,,,4,690,E Subash,,,3,,,1,4,U Mumba,4
+316,0.33,,,,7,599,Lokesh Kaushik,2,2,2,,,,2,Jaipur Pink Panthers,4
+317,,1.33,,,3,223,Rajeev Kumar,,,4,,,,4,Dabang Delhi K.C.,4
+318,0.25,0.75,,,4,154,Gurchet Singh,1,1,3,,,,3,Bengaluru Bulls,4
+319,,,,,5,113,Sunil Hanumanthappa,2,1,2,,,,2,Bengaluru Bulls,4
+320,,,1,,2,23,Dovlet Boshimov,4,3,,,,,,Patna Pirates,4
+321,,0.38,,,8,77,Parveen Kumar,,,2,,,1,3,Bengal Warriors,3
+322,0.75,,,,4,647,Gulveer Singh,3,1,,,,,,U.P. Yoddha,3
+323,,0.5,,,2,640,Sanoj Kumar,2,2,1,,,,1,U.P. Yoddha,3
+324,,0.14,,,7,712,Rohit Kumar,2,1,1,,,,1,U.P. Yoddha,3
+325,0.75,,1,,4,660,Bhavani Rajput,3,1,,,,,,Tamil Thalaivas,3
+326,,,,,3,746,Vikrant,3,1,,,,,,Telugu Titans,3
+327,,,,,2,250,Hyunil Park,2,1,1,,,,1,Telugu Titans,3
+328,0.75,,,,4,2318,Arun Kumar HN,3,2,,,,,,Haryana Steelers,3
+329,1,,2,,3,2302,Mithin Kumar,3,2,,,,,,Bengal Warriors,3
+330,,0.3,,,10,790,Satish,,,3,,,,3,Patna Pirates,3
+331,,1,,,3,776,Muruthu M,,,3,,,,3,Tamil Thalaivas,3
+332,,0.3,,,10,792,Tushar Balaram Bhoir,,,2,,,1,3,Dabang Delhi K.C.,3
+333,1,,3,,3,2021,Anand V,3,3,,,,,,Bengaluru Bulls,3
+334,,,1,,3,2262,Md. Masud Karim,3,2,,,,,,U.P. Yoddha,3
+335,,0.6,,,5,2644,Ravinder,,,2,,,1,3,Patna Pirates,3
+336,,,,,3,2493,Himanshu,2,1,1,,,,1,Tamil Thalaivas,3
+337,,,2,,2,2669,Balram,2,1,,,,,,Dabang Delhi K.C.,2
+338,0.67,,,,3,2683,Palle Mallikarjun,2,2,,,,,,Telugu Titans,2
+339,,,,,2,2041,Gurdeep,,,2,,,,2,U.P. Yoddha,2
+340,0.67,,,,3,2313,Gaurav Kumar,2,2,,,,,,U Mumba,2
+341,0.67,,,,3,2282,Yashwant Bishnoi,2,2,,,,,,Tamil Thalaivas,2
+342,,,,,1,2320,Mohit Balyan,,,1,,,1,2,U Mumba,2
+343,0.5,0.33,1,,3,2480,Hemant Chauhan,1,1,1,,,,1,Tamil Thalaivas,2
+344,0.5,,1,,5,2335,Vimal Raj V,2,2,,,,,,Tamil Thalaivas,2
+345,,0.33,,,3,241,Ravit Kumar,1,1,1,,,,1,Telugu Titans,2
+346,,0.4,,,5,279,Shashank Wankhede,,,2,,,,2,Bengal Warriors,2
+347,,,2,,1,263,Jay Bahadur Bohara,2,1,,,,,,Puneri Paltan,2
+348,,,1,,2,316,Nirbhay Narwal,1,1,1,,,,1,Bengaluru Bulls,2
+349,,1,,,2,308,Sushil Vijay Bhosle,,,2,,,,2,Bengal Warriors,2
+350,,1,,,2,726,Babu M,,,2,,,,2,Haryana Steelers,2
+351,,,,,1,708,N. Shiva Ramakrishna,,,1,,,1,2,Jaipur Pink Panthers,2
+352,1,,,,2,698,Vishav Chaudhary,2,1,,,,,,U.P. Yoddha,2
+353,,,,,5,392,Kuldeep,,,2,,,,2,Bengal Warriors,2
+354,,,,,2,5,Farhad Kamal Gharibi,,,1,,,1,2,Bengal Warriors,2
+355,,,,,1,9,Takamitsu Kono,1,1,1,,,,1,Puneri Paltan,2
+356,0.33,,,,9,11,Dong Ju Hong,2,1,,,,,,U Mumba,2
+357,,0.5,,,4,144,Gokul Shitole,,,2,,,,2,Jaipur Pink Panthers,2
+358,,,,,6,145,Md. Aruduzzaman Munshi,2,2,,,,,,U Mumba,2
+359,0.67,,1,,3,225,Sandeep Tomar,2,2,,,,,,Dabang Delhi K.C.,2
+360,0.5,,2,,4,227,Vinoth Paulyas,2,2,,,,,,Patna Pirates,2
+361,,0.67,,,3,221,Anoop E.V.,,,2,,,,2,U Mumba,2
+362,,,,,1,205,Sandeep Malik,,,1,,,1,2,Puneri Paltan,2
+363,,0.5,,,4,206,Aman Kumar,,,2,,,,2,Patna Pirates,2
+364,0.33,,1,,3,210,Sunny,1,,,,,,,Patna Pirates,1
+365,,1,,,1,201,Adinath Sakharam Gavali,,,1,,,,1,U Mumba,1
+366,0,,,,3,193,Rohit Kumar Prajapat,,,1,,,,1,Jaipur Pink Panthers,1
+367,,,,,2,199,Kazuhiro Takano,1,1,,,,,,Jaipur Pink Panthers,1
+368,,,,,2,224,Inderpal Bishnoi,1,1,,,,,,Dabang Delhi K.C.,1
+369,,,,,1,237,Amit Kumar,,,1,,,,1,Puneri Paltan,1
+370,,0.25,,,4,148,Sunil Subhash Lande,,,1,,,,1,Puneri Paltan,1
+371,,0.33,,,3,17,Atif Waheed,,,1,,,,1,Telugu Titans,1
+372,,,,,2,74,Nithesh B R,,,1,,,,1,Bengaluru Bulls,1
+373,,,,,3,509,Mohammad Taghi Paein Mahali,,,1,,,,1,Bengal Warriors,1
+374,,,1,,1,513,Yong Joo Ok,1,1,,,,,,U Mumba,1
+375,0,,,,3,580,Vishnu Uthaman,,,1,,,,1,Patna Pirates,1
+376,,,,,2,705,Ajvender Singh,,,1,,,,1,U.P. Yoddha,1
+377,,0.25,,,4,312,Sanju,,,1,,,,1,Dabang Delhi K.C.,1
+378,,,,,1,307,Ravinandan G.M.,,,1,,,,1,Dabang Delhi K.C.,1
+379,,,,,1,296,Navjot Singh,,,1,,,,1,Dabang Delhi K.C.,1
+380,,,1,,1,315,Parvesh Attri,1,1,,,,,,Bengaluru Bulls,1
+381,,,,,1,317,Hardeep Duhan,,,1,,,,1,Bengaluru Bulls,1
+382,,,,,1,373,Parveen Narwal,1,1,,,,,,Jaipur Pink Panthers,1
+383,,1,,,1,364,Ajay Singh,,,1,,,,1,Bengaluru Bulls,1
+384,,,1,,1,367,Nitin Kumar,1,1,,,,,,U Mumba,1
+385,,0.33,,,3,239,Jishnu,,,1,,,,1,Telugu Titans,1
+386,,0.33,,,3,2351,Vikram Kandola,,,1,,,,1,Haryana Steelers,1
+387,,,,,2,2025,Ajinkya Rohidas Kapre,1,1,,,,,,U Mumba,1
+388,,,,,3,774,Munish,1,,,,,,,Telugu Titans,1
+389,,0.33,,,3,2671,Naveen Narwal,,,1,,,,1,Bengal Warriors,1
+390,,,,,2,2668,Sumit,,,1,,,,1,Dabang Delhi K.C.,1
+391,,,,,1,2515,Vikas Chhillar,1,1,,,,,,Haryana Steelers,1
+392,,,,,1,2489,Satywan,,,1,,,,1,Dabang Delhi K.C.,1
+393,,,,,3,2482,Aashish Nagar,,,1,,,,1,U.P. Yoddha,1
+394,,,,,2,2501,Aman,,,1,,,,1,Bengaluru Bulls,1
